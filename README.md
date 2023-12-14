@@ -3,4 +3,4 @@ Hello! My name is Griffin Michalak, and I am studying Computer Science at Northe
 - 🔭 I’m currently working on a mobile application - FindDairyFree - that allows users to find Dairy-Free restaurant options nearby.
 - 📫 Contact: [Email](mailto:michalak.g@northeastern.edu), [LinkedIn](linkedin.com/in/griffinmichalak)
 - 😄 Pronouns: he/him/his
-- 🌐 Website: griffinmichalak.vercel.app
+- 🌐 Website: [griffinmichalak.vercel.app](https://griffinmichalak.vercel.app/)
