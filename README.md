@@ -1,4 +1,4 @@
-# Hello 👋
+## Hello 👋
 
 My name is Griffin Michalak, and I am studying Computer Science at Northeastern University. I am currently working as a Software Developer Intern at The Hanover Insurance Group. This GitHub profile includes my personal projects. Feel free to check it out!
 
