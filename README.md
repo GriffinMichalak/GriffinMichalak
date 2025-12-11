@@ -1,4 +1,4 @@
-## 👋 Hello!
+## 👋 Hi, I'm Griffin
 
 I'm Griffin Michalak, and I'm a software engineer at Datadog.
 ###
